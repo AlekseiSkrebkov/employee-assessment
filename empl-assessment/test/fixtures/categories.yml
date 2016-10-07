@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+task_execution:
+  name: Task Execution
+
+personality:
+  name: Personality

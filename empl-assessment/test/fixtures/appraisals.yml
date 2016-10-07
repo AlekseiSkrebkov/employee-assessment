@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: alexs
+  planned_on: 2016-06-06
+  completed_at: 2016-06-07
+  status: 2
+  comments: first appraisal
+
+two:
+  employee: alexs
+  planned_on: 2016-10-06
+  completed_at:
+  status: 1
+  comments: second appraisal

@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ilyav:
+  name: Ilya Vesov
+  manager:
+  job: mgt
+
+alexs:
+  name: Alex Skrebkov
+  manager: ilyav
+  job: ba
+
+egorg:
+  name: Egor Gorobetz
+  manager: ilyav
+  job: dev

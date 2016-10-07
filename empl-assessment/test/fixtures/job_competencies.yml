@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job: dev
+  category: tasks_execution
+
+two:
+  job: ba
+  category: personality
+
+three:
+  job: mgt
+  category: tasks_execution
+
+three:
+  job: mgt
+  category: personality

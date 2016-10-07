@@ -1,0 +1,36 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+task_execution_1:
+  name: Assessment of task
+  description: Description for assessment of task
+  category: task_execution
+
+task_execution_2:
+  name: Implementation quality
+  description: Description for implementation quality
+  category: task_execution
+
+task_execution_3:
+  name: Meeting deadlines
+  description: Description for meeting deadlines
+  category: task_execution
+
+personality_1:
+  name: Planning
+  description: Description for planning
+  category: personality
+
+personality_2:
+  name: Learning ability
+  description: Description for learning ability
+  category: personality
+
+personality_3:
+  name: Stress resistance
+  description: Description for stress resistance
+  category: personality
+
+personality_4:
+  name: Sense of responsibility
+  description: Description for sense of responsibility
+  category: personality

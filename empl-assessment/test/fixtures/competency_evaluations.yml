@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  appraisal: one
+  competency: one
+  mark: 
+  comments: MyText
+
+two:
+  appraisal: two
+  competency: two
+  mark: 
+  comments: MyText
